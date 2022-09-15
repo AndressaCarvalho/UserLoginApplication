@@ -1,7 +1,5 @@
 package com.example.activityone.model;
 
-import java.util.List;
-
 public interface IUserModel {
     String getUserName();
 
