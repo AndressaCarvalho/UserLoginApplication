@@ -3,7 +3,7 @@
 </h1>
 
 ## Project description
-Simple application for user login, developed in Android Studio, for the discipline of Programming for Mobile Devices, of the course of Analysis and Development of Systems.<br/>
+Simple application for user login, developed in Java and Android Studio, for the discipline of Programming for Mobile Devices, of the course of Analysis and Development of Systems.<br/>
 <h3 align="center">
     <a href="https://developer.android.com/studio#downloads">🔗 Android Studio</a>
 </h3>
