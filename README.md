@@ -44,7 +44,7 @@ Simple application for user login, developed in Java and Android Studio, for the
 
 ## Application demo
 <h3 align="center">
-    <a href="">🔗 YouTube</a>
+    <a href="https://youtu.be/SgkU5_ZQm_M">🔗 YouTube</a>
 </h3>
 
 ---
